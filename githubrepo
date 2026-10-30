@@ -1,0 +1,20 @@
+cURL Command:
+curl -s https://api.github.com/repos/Shravanin3/expressBookReviews
+
+Output:
+{
+  "name": "expressBookReviews",
+  "full_name": "Shravanin3/expressBookReviews",
+  "owner": {
+    "login": "Shravanin3"
+  },
+  "fork": true,
+  "parent": {
+    "full_name": "ibm-developer-skills-network/expressBookReviews",
+    "html_url": "https://github.com/ibm-developer-skills-network/expressBookReviews"
+  },
+  "source": {
+    "full_name": "ibm-developer-skills-network/expressBookReviews",
+    "html_url": "https://github.com/ibm-developer-skills-network/expressBookReviews"
+  }
+}
